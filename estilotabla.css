@@ -1,0 +1,12 @@
+table{background-color: cadetblue;
+    color:black;
+text-align: center;}
+a{
+    text-decoration: rgb(182, 140, 168);
+    text-align: center;
+    box-shadow: white;
+}
+
+a:hover{
+    text-decoration: rgb(138, 83, 151);
+}
